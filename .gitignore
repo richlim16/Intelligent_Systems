@@ -1,1 +1,11 @@
 is_env/
+UNET/Data/sample
+UNET/Data/stage1_sample_submission.csv/
+UNET/Data/stage1_solution.csv
+UNET/Data/stage1_test/
+UNET/Data/stage1_train/
+UNET/Data/stage1_train_labels.csv/
+UNET/Data/stage2_sample_submission_final.csv/
+UNET/Data/stage2_test_final/
+UNET/Data/test/
+UNET/Data/train/
