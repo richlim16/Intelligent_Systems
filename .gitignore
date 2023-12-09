@@ -9,3 +9,6 @@ UNET/Data/stage2_sample_submission_final.csv/
 UNET/Data/stage2_test_final/
 UNET/Data/test/
 UNET/Data/train/
+hw_env/
+new_unet/
+UNET/Data/logs/
