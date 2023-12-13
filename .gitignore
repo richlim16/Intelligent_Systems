@@ -1,4 +1,5 @@
 is_env/
+<<<<<<< HEAD
 UNET/Data/sample
 UNET/Data/stage1_sample_submission.csv/
 UNET/Data/stage1_solution.csv
@@ -12,3 +13,6 @@ UNET/Data/train/
 hw_env/
 new_unet/
 UNET/Data/logs/
+=======
+Paper_Code/data/
+>>>>>>> 8b20df6fb58d3e5a61b20cd293c22d188bbf0173
